@@ -1,4 +1,5 @@
-# 👋 Hi, I'm ThatIcyy and I'm a Frontend Developer
+# ThatIcyy
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,vue,figma,vite,mysql,lua,&theme=dark)
+### Skills
+![My Skills](https://skillicons.dev/icons?i=react,vue,ts,lua,python,pinia,sass,mysql,supabase,nodejs,vite,figma&perline=6)
 
